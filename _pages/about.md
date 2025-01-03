@@ -16,14 +16,11 @@ When I was a little kid I would always like to mess around with the computer, an
 
 My theoretical knowledge from my certifications is nice, but practical knowledge is what matters to employers. I will continue to search for internships throughout college and continue to build my project resume and share knowledge with other Cybersecurity "professionals" / inspiring "professionals." Use that word lightly, because I don't think anyone can be a professional in cybersecurity, because you really will never know everything. 
 
-Getting started
+The Soled Family's Personal Helpdesk
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I wish life was so simple that I could put this on my resume but I have been working for free probably for over 6 years, from removing malware, and fixing printers (the worst), to my mother screaming at me that the internet is broken, when in reality it's just her phone, I have a lot of experience when it comes to technical troubleshooting of computers. In my family, I was the person to go to when it came to a computer problem. Additionally, whenever I see a vulnerability in our IOT devices I would always think of ways to fix them. 
+
+Ever since I have been certified by CompTIA, I have made a countless effort to educate my family about various forms of fraud, phishing, and other cybersecurity problems that can be easily avoided if you're made aware of them. No Mom that's not USPS telling you in broken English that your "parcel cannot be delivered" 
 
 Site-wide configuration
 ------
