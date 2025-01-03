@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, I'm Zachary Soled
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a driven cybersecurity student who attends The Pennsylvania State University and I am currently pursuing a degree in Cybersecurity Analytics and Operations. At just 16 years old I earned my CompTIA A+, and 17 my CompTIA Network+ and CompTIA Security+ [certifications](https://www.credly.com/users/zachary-soled). I have a strong technical background, and that was only strengthened in High School where I attended a trade school and took Network Operations (Tripple Period) and Cybersecurity Capstone (Tripple Period) courses(s) across my last 2 years of high school further preparing me for my certifications, which helped me tremendously now to get a step ahead from other students. 
 
 A data-driven personal website
 ======
