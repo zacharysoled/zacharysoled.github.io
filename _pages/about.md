@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Zachary Soled
+title: "Hello, I'm Zachary Soled"
 author_profile: true
 redirect_from: 
   - /about/
