@@ -17,4 +17,4 @@ User-agent: YandexBot
 Disallow: /
 
 User-agent: *
-Disallow: /
+Disallow: /sitemap.xml
