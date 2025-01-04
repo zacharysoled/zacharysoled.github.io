@@ -146,6 +146,7 @@
 
 .author__bio {
   margin: 0;
+  user-select: none;
 
   @include breakpoint($large) {
     margin-top: 10px;
